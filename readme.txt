@@ -1,5 +1,5 @@
 Git is a very good distuributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 test
 Good good study,day day up
 Git tracks changes of files.
@@ -10,6 +10,9 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 add a change
+fix bug
+
+
 
 
 
